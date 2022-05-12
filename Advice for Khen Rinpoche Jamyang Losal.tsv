@@ -1,0 +1,125 @@
+form	lemma	POS	morph
+༄༅། །		PUNCT
+འཇམ་དབྱངས་	འཇམ་དབྱངས་	PROPN
+བློ་གསལ་	བློ་གསལ་	OTHER
+ལ་	ལ་	PART
+གདམས་པ་	གདམས་པ་	VERB
+།		PUNCT
+ཨ་ཧོ་	ཨ་ཧོ་	NO_POS
+།		PUNCT
+བུ་ཆོས་	བུ་ཆོས་	OTHER
+ཀུན་	ཀུན་	DET
+སེམས་	སེམས་	NOUN
+ཀྱི་	གི་	PART
+སྣང་བ་	སྣང་བ་	VERB
+ཡིན་	ཡིན་	NO_POS
+། །		PUNCT
+ན་ཚ་	ན་ཚ་	NOUN
+བདེ་སྡུག་	བདེ་སྡུག་	OTHER
+རྣམ་རྟོག་	རྣམ་རྟོག་	NOUN
+ཡིན་	ཡིན་	NO_POS
+། །		PUNCT
+རྣམ་རྟོག་	རྣམ་རྟོག་	NOUN
+གཞི་རྩ་	གཞི་རྩ་	NOUN
+བཅད་	བཅད་	VERB
+གྱུར་	གྱུར་	VERB
+ན་	ལ་	PART
+"།
+།"		PUNCT
+སྐྱེ་འགག་	སྐྱེ་འགག་	NOUN
+ས་	གིས་	PART
+གནས་	གནས་	NOUN
+བྲལ་	བྲལ་	VERB
+འགྲོ་འོང་	འགྲོ་འོང་	NOUN
+མེད་	མེད་	VERB
+། །		PUNCT
+སེམས་ཉིད་	སེམས་ཉིད་	NOUN
+གསལ་	གསལ་	VERB
+རིག་	རིག་	VERB
+སྟོང་པ་	སྟོང་པ་	VERB
+གསུམ་	གསུམ་	NUM
+། །		PUNCT
+ཟུང་འཇུག་	ཟུང་འཇུག་	NOUN
+དེ་	སྟེ་	PART
+བླ་མ་	བླ་མ་	NOUN
+ཡི་དམ་	ཡི་དམ་	NOUN
+ཡིན་	ཡིན་	NO_POS
+"།
+།"		PUNCT
+དེ་	སྟེ་	PART
+རང་	རང་	PRON
+ངོ་	གོ་	PART
+ཤེས་པ་	ཤེས་པ་	VERB
+འི་	གི་	PART
+ལྟ་བ་	ལྟ་བ་	VERB
+ལ་	ལ་	PART
+། །		PUNCT
+འཛིན་པ་	འཛིན་པ་	VERB
+འི་	གི་	PART
+སྒྲོག་	སྒྲོག་	VERB
+གིས་	གིས་	PART
+མ་	མ་	PART
+འཆིངས་		NON_WORD
+ཤིག་	ཅིག་	PART
+།		PUNCT
+སྤྲོས་བྲལ་	སྤྲོས་བྲལ་	ADJ
+གྱི་	གི་	PART
+ལྟ་བ་	ལྟ་བ་	VERB
+དེ་	དེ་	DET
+འི་	གི་	PART
+ངང་	ངང་	NOUN
+ན་	ནས་	PART
+"།
+།"		PUNCT
+བསྐྱེད་རྫོགས་	བསྐྱེད་རྫོགས་	NOUN
+སོགས་	སོགས་	DET
+རྩལ་	རྩལ་	NOUN
+གདངས་	གདངས་	NOUN
+ཅི་	ཅི་	NO_POS
+ཤ་	ཤ་	VERB
+ཡང་	ཀྱང་	PART
+། །		PUNCT
+འགག་	འགག་	VERB
+ས་	གིས་	PART
+མེད་	མེད་	VERB
+ཀྱི་	གི་	PART
+བསྒོམ་པ་	བསྒོམ་པ་	VERB
+ནན་ཏན་	ནན་ཏན་	NOUN
+མཛོད་	མཛོད་	NOUN
+། །		PUNCT
+གེགས་	གེགས་	NOUN
+སེལ་	སེལ་	VERB
+དང་	དང་	NO_POS
+བོགས་	བོགས་	NOUN
+འདོན་	འདོན་	VERB
+གྱི་	གི་	PART
+རྒྱལ་པོ་	རྒྱལ་པོ་	NOUN
+ནི་	ནི་	NO_POS
+"།
+།"		PUNCT
+ལམ་	གམ་	PART
+ཟབ་	ཟབ་	VERB
+བླ་མ་	བླ་མ་	NOUN
+འི་	གི་	PART
+རྣལ་འབྱོར་	རྣལ་འབྱོར་	NOUN
+ཡིན་	ཡིན་	NO_POS
+། །		PUNCT
+མོས་གུས་	མོས་གུས་	NOUN
+ཀྱིས་	གིས་	PART
+གནད་	གནད་	NOUN
+དུ་	ལ་	PART
+བསྣུན་པ་	བསྣུན་པ་	VERB
+ར་	ལ་	PART
+གཅེ་	གཅེ་	VERB
+།		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+འང་	ཀྱང་	PART
+ཐུགས་སྲས་	ཐུགས་སྲས་	NOUN
+མཁན་	མཁན་	PROPN
+རིན་པོ་ཆེ་	རིན་པོ་ཆེ་	ADJ
+འཇམ་དབྱངས་	འཇམ་དབྱངས་	PROPN
+བློ་གསལ་	བློ་གསལ་	OTHER
+ལ་	ལ་	PART
+གདོམས་པ་	གདོམས་པ་	NO_POS
+འོ་	གོ་	PART
+།། །།		PUNCT

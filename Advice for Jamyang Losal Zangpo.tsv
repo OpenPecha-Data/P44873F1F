@@ -1,0 +1,121 @@
+form	lemma	POS	morph
+༄༅། །		PUNCT
+འཇམ་དབྱངས་	འཇམ་དབྱངས་	PROPN
+བློ་གསལ་	བློ་གསལ་	OTHER
+བཟང་པོ་	བཟང་པོ་	ADJ
+ལ་	ལ་	PART
+གདམས་པ་	གདམས་པ་	VERB
+།		PUNCT
+ཀྱེ་	ཀྱེ་	INTJ
+ཧོ་	ཧོ་	NO_POS
+།		PUNCT
+བུ་	བུ་	NOUN
+རྟག་པ་	རྟག་པ་	VERB
+ར་	ལ་	PART
+བླ་མ་	བླ་མ་	NOUN
+དྲན་པ་	དྲན་པ་	VERB
+དང་	དང་	NO_POS
+། །		PUNCT
+ཅིར་	ཅིར་	NO_POS
+སྣང་	སྣང་	VERB
+བླ་མ་	བླ་མ་	NOUN
+ར་	ལ་	PART
+ཤེས་པ་	ཤེས་པ་	VERB
+ཡི་	གི་	PART
+། །		PUNCT
+མོས་གུས་	མོས་གུས་	NOUN
+ལམ་	གམ་	PART
+གྱི་	གི་	PART
+སྲོག་	སྲོག་	NOUN
+འཁར་	འཁར་	NO_POS
+ལ་	ལ་	PART
+། །		PUNCT
+ཕ་རྒན་	ཕ་རྒན་	NOUN
+ས་སྐྱ་པ་	ས་སྐྱ་པ་	PROPN
+ཆེན་པོ་	ཆེན་པོ་	ADJ
+འི་	གི་	PART
+"།
+།"		PUNCT
+རྟོགས་པ་	རྟོགས་པ་	VERB
+འི་	གི་	PART
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+རྒྱུད་	རྒྱུད་	NOUN
+ལ་	ལ་	PART
+འཕོ་	འཕོ་	VERB
+། །		PUNCT
+ལུས་	ལུས་	NOUN
+ནི་	ནི་	NO_POS
+ལྷ་	ལྷ་	NOUN
+རུ་	ལ་	PART
+སྒོམ་པ་	སྒོམ་པ་	VERB
+དང་	དང་	NO_POS
+། །		PUNCT
+ངག་	ངག་	NOUN
+ནི་	ནི་	NO_POS
+བཟླས་པ་	བཟླས་པ་	VERB
+ལམ་	གམ་	PART
+དུ་	ལ་	PART
+ཁྱེ་	ཁྱེ་	VERB
+"།
+།"		PUNCT
+དྲན་རྟོག་	དྲན་རྟོག་	NO_POS
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+ཆེན་པོ་	ཆེན་པོ་	ADJ
+འི་	གི་	PART
+ངང་	ངང་	NOUN
+། །		PUNCT
+ནམ་ཡང་	ནམ་ཡང་	OTHER
+འདའ་བ་	འདའ་བ་	VERB
+མེད་པ་	མེད་པ་	VERB
+ར་	ལ་	PART
+མཛོད་	མཛོད་	NOUN
+། །		PUNCT
+མདོར་ན་	མདོར་ན་	NO_POS
+མང་	མང་	VERB
+དུ་	ལ་	PART
+སྨྲས་པ་	སྨྲས་པ་	VERB
+ས་	གིས་	PART
+ཅི་	ཅི་	NO_POS
+བྱ་	བྱ་	VERB
+སྟེ་	སྟེ་	PART
+"།
+།"		PUNCT
+རང་སེམས་	རང་སེམས་	NOUN
+འདུལ་ཞིང་	འདུལ་ཞིང་	NO_POS
+རང་རྒྱུད་	རང་རྒྱུད་	NOUN
+ཆོ་	ཆོ་	NOUN
+དང་	དང་	NO_POS
+བསྲེ་	བསྲེ་	NO_POS
+། །		PUNCT
+ཆོ་	ཆོ་	NOUN
+ཀྱི་	གི་	PART
+སྙིང་པོ་	སྙིང་པོ་	NOUN
+ཀུན་རྫོབ་	ཀུན་རྫོབ་	NOUN
+དོན་དམ་	དོན་དམ་	NOUN
+གྱི་	གི་	PART
+"།
+།"		PUNCT
+བྱང་ཆུབ་	བྱང་ཆུབ་	NOUN
+སེམས་	སེམས་	NOUN
+གཉིས་	གཉིས་	NUM
+བསྒོམ་	བསྒོམ་	VERB
+ལ་	ལ་	PART
+ནན་ཏན་	ནན་ཏན་	NOUN
+བྱ་	བྱ་	VERB
+། །		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+འདི་	འདི་	DET
+ནི་	ནི་	NO_POS
+རང་	རང་	PRON
+སློབ་	སློབ་	VERB
+འཇམ་དབྱངས་	འཇམ་དབྱངས་	PROPN
+བློ་གསལ་	བློ་གསལ་	OTHER
+བཟང་པོ་	བཟང་པོ་	ADJ
+འི་	གི་	PART
+ཆེད་	ཆེད་	NOUN
+ཆོ་	ཆོ་	NOUN
+ཀྱི་	གི་	PART
+བློ་གྲོས་པ་	བློ་གྲོས་པ་	NOUN
+ས་	གིས་	PART
+སོ་	གོ་	PART
+།། །།		PUNCT
